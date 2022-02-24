@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 “Cool, all my changes will be now part of the main branch, ready to be deployed!”
 
 
+=======
+#!/bin/bash
+echo "The school is open!"
+>>>>>>> update_script
